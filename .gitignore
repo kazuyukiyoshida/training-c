@@ -1,0 +1,6 @@
+*~
+*.o
+*.a
+test/hello
+opencv_sample/sample_convert
+led_test/led_test
