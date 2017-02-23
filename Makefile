@@ -24,6 +24,7 @@ empty :=
 space := $(empty) $(empty)
 
 SUBDIR_y += test/
+SUBDIR_y += led_test/
 SUBDIR_y += opencv_sample/
 SUBDIR_$(CONFIG_VENDOR_CONVERT_PUBKEY_CONVERT_PUBKEY)  += convert_pubkey/
 SUBDIR_$(CONFIG_VENDOR_AWL12_AERIAL)		+= awl12/
